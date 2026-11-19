@@ -26,6 +26,11 @@ for (const f of FACES) {
   definitions[f.toLowerCase()]=[axis,[0,layer],angle];
 }
 const permutations = new Map();
+export function turnGeometry(move) {
+  const [axis,layers,angle]=definitions[move[0]];
+  const quarters=move.endsWith('2')?2:move.endsWith("'")?-1:1;
+  return {axis,layers,degrees:90*angle*quarters};
+}
 for (const [face,[axis,layers,angle]] of Object.entries(definitions)) {
   for (const [suffix,count] of [['',1],["'",-1],['2',2]]) {
     const map=Array.from({length:54},(_,i)=>i);
