@@ -1,0 +1,757 @@
+[
+  {
+    "stage": "F2L",
+    "code": "B1",
+    "group": "Básicos",
+    "alg": "U' F' U F",
+    "image": "assets/f2l/B1.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "B2",
+    "group": "Básicos",
+    "alg": "U R U' R'",
+    "image": "assets/f2l/B2.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "B3",
+    "group": "Básicos",
+    "alg": "F' U' F",
+    "image": "assets/f2l/B3.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "B4",
+    "group": "Básicos",
+    "alg": "R U R'",
+    "image": "assets/f2l/B4.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE1",
+    "group": "Blanco de lado",
+    "alg": "R U' R' U R U' R' U2 R U' R'",
+    "image": "assets/f2l/AE1.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE2",
+    "group": "Blanco de lado",
+    "alg": "U' R U2 R' U F' U' F",
+    "image": "assets/f2l/AE2.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE3",
+    "group": "Blanco de lado",
+    "alg": "R U' R' U2 F' U' F",
+    "image": "assets/f2l/AE3.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE4",
+    "group": "Blanco de lado",
+    "alg": "F' U F U2 R U R'",
+    "image": "assets/f2l/AE4.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE5",
+    "group": "Blanco de lado",
+    "alg": "U' R U' R' U R U R'",
+    "image": "assets/f2l/AE5.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE6",
+    "group": "Blanco de lado",
+    "alg": "d R' U R U' R' U' R",
+    "image": "assets/f2l/AE6.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE7",
+    "group": "Blanco de lado",
+    "alg": "U F' U' F U2 F' U F",
+    "image": "assets/f2l/AE7.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE8",
+    "group": "Blanco de lado",
+    "alg": "U' R U R' U' R U2 R'",
+    "image": "assets/f2l/AE8.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE9",
+    "group": "Blanco de lado",
+    "alg": "U' R U R' U R U R'",
+    "image": "assets/f2l/AE9.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE10",
+    "group": "Blanco de lado",
+    "alg": "U' R U' R' U F' U' F",
+    "image": "assets/f2l/AE10.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE11",
+    "group": "Blanco de lado",
+    "alg": "y' U R' U2 R U2 R' U R",
+    "image": "assets/f2l/AE11.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "AE12",
+    "group": "Blanco de lado",
+    "alg": "U' R U2 R' U2 R U' R'",
+    "image": "assets/f2l/AE12.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP1",
+    "group": "Blanco arriba",
+    "alg": "R U R' U2 R U R' U' R U R'",
+    "image": "assets/f2l/UP1.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP2",
+    "group": "Blanco arriba",
+    "alg": "R U R' U R U2 R' F' U2 F",
+    "image": "assets/f2l/UP2.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP3",
+    "group": "Blanco arriba",
+    "alg": "F' U2 F U F' U' F",
+    "image": "assets/f2l/UP3.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP4",
+    "group": "Blanco arriba",
+    "alg": "R U2 R' U' R U R'",
+    "image": "assets/f2l/UP4.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP5",
+    "group": "Blanco arriba",
+    "alg": "U' F' U2 F U' F' U F",
+    "image": "assets/f2l/UP5.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP6",
+    "group": "Blanco arriba",
+    "alg": "U R U2 R' U R U' R'",
+    "image": "assets/f2l/UP6.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP7",
+    "group": "Blanco arriba",
+    "alg": "U2 R U R' U R U' R'",
+    "image": "assets/f2l/UP7.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "UP8",
+    "group": "Blanco arriba",
+    "alg": "U2 F' U' F U' F' U F",
+    "image": "assets/f2l/UP8.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BT1",
+    "group": "Esquina abajo",
+    "alg": "U R U' R' U' F' U F",
+    "image": "assets/f2l/BT1.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BT2",
+    "group": "Esquina abajo",
+    "alg": "U' F' U F U R U' R'",
+    "image": "assets/f2l/BT2.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BT3",
+    "group": "Esquina abajo",
+    "alg": "F' U F U' F' U F",
+    "image": "assets/f2l/BT3.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BT4",
+    "group": "Esquina abajo",
+    "alg": "R U' R' U R U' R'",
+    "image": "assets/f2l/BT4.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BT5",
+    "group": "Esquina abajo",
+    "alg": "U' (R U R' U') R U R'",
+    "image": "assets/f2l/BT5.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BT6",
+    "group": "Esquina abajo",
+    "alg": "U' R U' R' F' U' F",
+    "image": "assets/f2l/BT6.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "TM1",
+    "group": "Arista en medio",
+    "alg": "(R U R' U') (R U R' U') R U R'",
+    "image": "assets/f2l/TM1.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "TM2",
+    "group": "Arista en medio",
+    "alg": "R U' R' F' U2 F",
+    "image": "assets/f2l/TM2.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "TM3",
+    "group": "Arista en medio",
+    "alg": "U' R U2 R' U R U R'",
+    "image": "assets/f2l/TM3.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "TM4",
+    "group": "Arista en medio",
+    "alg": "U' R U' R' U2 R U' R'",
+    "image": "assets/f2l/TM4.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "TM5",
+    "group": "Arista en medio",
+    "alg": "d R' U' R d' R U R'",
+    "image": "assets/f2l/TM5.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "TM6",
+    "group": "Arista en medio",
+    "alg": "U' R U R' d R' U' R",
+    "image": "assets/f2l/TM6.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BM2",
+    "group": "Ambas en su ranura",
+    "alg": "R U2 R' U R U2 R' U F' U' F",
+    "image": "assets/f2l/BM2.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BM3",
+    "group": "Ambas en su ranura",
+    "alg": "R U' R' U R U2 R' U R U' R'",
+    "image": "assets/f2l/BM3.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BM4",
+    "group": "Ambas en su ranura",
+    "alg": "(R U R' U') R U2 R' U' R U R'",
+    "image": "assets/f2l/BM4.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BM5",
+    "group": "Ambas en su ranura",
+    "alg": "R U' R' U2 F' U' F U' F' U F",
+    "image": "assets/f2l/BM5.webp"
+  },
+  {
+    "stage": "F2L",
+    "code": "BM6",
+    "group": "Ambas en su ranura",
+    "alg": "F' U F U2 R U R' U R U' R'",
+    "image": "assets/f2l/BM6.webp"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 21",
+    "group": "Cruz superior",
+    "alg": "R U R' U R U' R' U R U2 R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 22",
+    "group": "Cruz superior",
+    "alg": "R U2 R2 U' R2 U' R2 U2 R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 23",
+    "group": "Cruz superior",
+    "alg": "R2 D R' U2 R D' R' U2 R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 24",
+    "group": "Cruz superior",
+    "alg": "r U R' U' r' F R F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 25",
+    "group": "Cruz superior",
+    "alg": "F' r U R' U' r' F R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 26",
+    "group": "Cruz superior",
+    "alg": "R U2 R' U' R U' R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 27",
+    "group": "Cruz superior",
+    "alg": "R U R' U R U2 R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 28",
+    "group": "Esquinas orientadas",
+    "alg": "R' F R S R' F' R S'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 57",
+    "group": "Esquinas orientadas",
+    "alg": "S R' F R S' R' F' R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 1",
+    "group": "Punto",
+    "alg": "R U2 R2 F R F' U2 R' F R F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 2",
+    "group": "Punto",
+    "alg": "(r U r') U2 (R U2 R') U2 (r U' r')"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 3",
+    "group": "Punto",
+    "alg": "R' F2 R2 U2 R' F R U2 R2 F2 R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 4",
+    "group": "Punto",
+    "alg": "R' F2 R2 U2 R' F' R U2 R2 F2 R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 17",
+    "group": "Punto",
+    "alg": "F R' F' R U S' R U' R' S"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 18",
+    "group": "Punto",
+    "alg": "R U2 R2 F R F' U2 M' U R U' r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 19",
+    "group": "Punto",
+    "alg": "S' R U R' S U' R' F R F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 20",
+    "group": "Punto",
+    "alg": "S R' U' R U R U R U' R' S'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 5",
+    "group": "Cuadrado",
+    "alg": "r' U2 R U R' U r"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 6",
+    "group": "Cuadrado",
+    "alg": "r U2 R' U' R U' r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 51",
+    "group": "Línea",
+    "alg": "F (U R U' R') (U R U' R') F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 52",
+    "group": "Línea",
+    "alg": "R' F' U' F U' R U R' U R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 55",
+    "group": "Línea",
+    "alg": "R' F U R U' R2 F' R2 U R' U' R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 56",
+    "group": "Línea",
+    "alg": "r U r' U R U' R' U R U' R' r U' r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 9",
+    "group": "Pez",
+    "alg": "(R U R' U') R' F R2 U R' U' F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 10",
+    "group": "Pez",
+    "alg": "R U R' U R' F R F' R U2 R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 35",
+    "group": "Pez",
+    "alg": "R U2 R2 F R F' R U2 R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 37",
+    "group": "Pez",
+    "alg": "F R U' R' U' R U R' F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 7",
+    "group": "Rayo",
+    "alg": "r U R' U R U2 r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 8",
+    "group": "Rayo",
+    "alg": "r' U' R U' R' U2 r"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 11",
+    "group": "Rayo",
+    "alg": "S R U R' U R U2 R' U2 S'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 12",
+    "group": "Rayo",
+    "alg": "S R' U' R U' R' U2 R U2 S'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 39",
+    "group": "Rayo",
+    "alg": "f' r U r' U' r' F r S"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 40",
+    "group": "Rayo",
+    "alg": "R' F R U R' U' F' U R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 13",
+    "group": "Caballo",
+    "alg": "F U R U' R2 F' R U R U' R'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 14",
+    "group": "Caballo",
+    "alg": "(R' F R) U (R' F' R) (F U' F')"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 15",
+    "group": "Caballo",
+    "alg": "l' U' l L' U' L U l' U l"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 16",
+    "group": "Caballo",
+    "alg": "r U r' R U R' U' r U' r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 29",
+    "group": "Formas irregulares",
+    "alg": "r2 D' r U r' D r2 U' r' U' r"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 30",
+    "group": "Formas irregulares",
+    "alg": "r' D' r U' r' D r2 U' r' U r U r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 41",
+    "group": "Formas irregulares",
+    "alg": "R U R' U R U2 R' F R U R' U' F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 42",
+    "group": "Formas irregulares",
+    "alg": "R' U' R U' R' U2 R F R U R' U' F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 31",
+    "group": "Forma de P",
+    "alg": "R' U' F U R U' R' F' R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 32",
+    "group": "Forma de P",
+    "alg": "S R U R' U' R' F R f'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 43",
+    "group": "Forma de P",
+    "alg": "R' U' F' U F R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 44",
+    "group": "Forma de P",
+    "alg": "F U R U' R' F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 33",
+    "group": "Forma de T",
+    "alg": "(R U R' U') (R' F R F')"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 45",
+    "group": "Forma de T",
+    "alg": "F R U R' U' F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 34",
+    "group": "Forma de C",
+    "alg": "f R f' U' r' U' R U M'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 46",
+    "group": "Forma de C",
+    "alg": "R' U' R' F R F' U R"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 47",
+    "group": "Forma de L",
+    "alg": "F' (L' U' L U) (L' U' L U) F"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 48",
+    "group": "Forma de L",
+    "alg": "F (R U R' U') (R U R' U') F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 49",
+    "group": "Forma de L",
+    "alg": "r U' r2 U r2 U r2 U' r"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 50",
+    "group": "Forma de L",
+    "alg": "r' U r2 U' r2 U' r2 U r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 53",
+    "group": "Forma de L",
+    "alg": "r' U' R U' R' U R U' R' U2 r"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 54",
+    "group": "Forma de L",
+    "alg": "r U R' U R U' R' U R U2 r'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 36",
+    "group": "Forma de W",
+    "alg": "R U R' F' R U R' U' R' F R U' R' F R F'"
+  },
+  {
+    "stage": "OLL",
+    "code": "OLL 38",
+    "group": "Forma de W",
+    "alg": "R U R' U R U' R' U' R' F R F'"
+  },
+  {
+    "stage": "PLL",
+    "code": "Aa",
+    "group": "Esquinas adyacentes",
+    "alg": "x (R' U R') D2 (R U' R') D2 R2 x'"
+  },
+  {
+    "stage": "PLL",
+    "code": "Ab",
+    "group": "Esquinas adyacentes",
+    "alg": "x R2 D2 (R U R') D2 (R U' R) x'"
+  },
+  {
+    "stage": "PLL",
+    "code": "F",
+    "group": "Esquinas adyacentes",
+    "alg": "R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R"
+  },
+  {
+    "stage": "PLL",
+    "code": "Ja",
+    "group": "Esquinas adyacentes",
+    "alg": "x R2 F R F' R U2 r' U r U2 x'"
+  },
+  {
+    "stage": "PLL",
+    "code": "Jb",
+    "group": "Esquinas adyacentes",
+    "alg": "(R U R' F') (R U R' U') R' F R2 U' R' U'"
+  },
+  {
+    "stage": "PLL",
+    "code": "Ra",
+    "group": "Esquinas adyacentes",
+    "alg": "(R U' R' U') R U (R D R') U' (R D' R') U2 R' U'"
+  },
+  {
+    "stage": "PLL",
+    "code": "Rb",
+    "group": "Esquinas adyacentes",
+    "alg": "(R' U2 R U2) R' F (R U R' U') R' F' R2"
+  },
+  {
+    "stage": "PLL",
+    "code": "T",
+    "group": "Esquinas adyacentes",
+    "alg": "(R U R' U') R' F R2 U' R' U' (R U R' F')"
+  },
+  {
+    "stage": "PLL",
+    "code": "E",
+    "group": "Esquinas diagonales",
+    "alg": "x' (R U' R' D) (R U R' D') (R U R' D) (R U' R' D') x"
+  },
+  {
+    "stage": "PLL",
+    "code": "Na",
+    "group": "Esquinas diagonales",
+    "alg": "(R U R' U) (R U R' F' R U R' U' R' F R2 U' R') (U2 R U' R')"
+  },
+  {
+    "stage": "PLL",
+    "code": "Nb",
+    "group": "Esquinas diagonales",
+    "alg": "r' D' F r U' r' F' D r2 U r' U' r' F r F'"
+  },
+  {
+    "stage": "PLL",
+    "code": "V",
+    "group": "Esquinas diagonales",
+    "alg": "(R' U R' U') (R D' R' D) R' U D' R2 U' R2 D R2"
+  },
+  {
+    "stage": "PLL",
+    "code": "Y",
+    "group": "Esquinas diagonales",
+    "alg": "F (R U' R' U') (R U R' F') (R U R' U') (R' F R F')"
+  },
+  {
+    "stage": "PLL",
+    "code": "Ga",
+    "group": "Permutaciones G",
+    "alg": "R2 U R' U R' U' R U' R2 D U' R' U R D'"
+  },
+  {
+    "stage": "PLL",
+    "code": "Gb",
+    "group": "Permutaciones G",
+    "alg": "R' U' R U D' R2 U R' U R U' R U' R2 D"
+  },
+  {
+    "stage": "PLL",
+    "code": "Gc",
+    "group": "Permutaciones G",
+    "alg": "R2 F2 R U2 R U2 R' F R U R' U' R' F R2"
+  },
+  {
+    "stage": "PLL",
+    "code": "Gd",
+    "group": "Permutaciones G",
+    "alg": "R U R' U' D R2 U' R U' R' U R' U R2 D'"
+  },
+  {
+    "stage": "PLL",
+    "code": "H",
+    "group": "Solo aristas",
+    "alg": "M2 U' M2 U2 M2 U' M2"
+  },
+  {
+    "stage": "PLL",
+    "code": "Ua",
+    "group": "Solo aristas",
+    "alg": "M2 U M U2 M' U M2"
+  },
+  {
+    "stage": "PLL",
+    "code": "Ub",
+    "group": "Solo aristas",
+    "alg": "M2 U' M U2 M' U' M2"
+  },
+  {
+    "stage": "PLL",
+    "code": "Z",
+    "group": "Solo aristas",
+    "alg": "M2 U' M2 U' M' U2 M2 U2 M' U2"
+  }
+]
