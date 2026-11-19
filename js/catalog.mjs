@@ -1,8 +1,8 @@
 import {icon} from './illustrations.mjs';
 export const stages={
- F2L:{name:'Primeras dos capas',text:'Forma cuatro pares de esquina y arista e insértalos alrededor de la cruz inferior.'},
- OLL:{name:'Orientación de la última capa',text:'Orienta las cuatro aristas y las cuatro esquinas hasta completar el color superior.'},
- PLL:{name:'Permutación de la última capa',text:'Intercambia las piezas de la última capa y alinea sus colores con los centros.'}
+ F2L:{name:'Primeras dos capas'},
+ OLL:{name:'Orientación de la última capa'},
+ PLL:{name:'Permutación de la última capa'}
 };
 export const slug=c=>c.stage.toLowerCase()+'-'+c.code.toLowerCase().replaceAll(' ','-');
 export const imageURL=c=>c.image||'assets/diagramas/'+slug(c)+'.svg';

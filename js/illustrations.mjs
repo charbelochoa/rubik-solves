@@ -18,7 +18,6 @@ const icons={
   menu:'<path d="M3 6h18M3 12h18M3 18h18"/>'
 };
 export const icon=(name,size=18)=>`<svg class="icon" aria-hidden="true" width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">${icons[name]}</svg>`;
-export const logo='<svg viewBox="0 0 40 42" width="34" height="36" fill="none" aria-hidden="true"><path d="m20 2 17 9.5-17 9.8-17-9.8Z" fill="#4cd4a1"/><path d="m3 14 15.7 9.1v17L3 31.2Z" fill="#008568"/><path d="M37 14v17.2l-15.7 8.9v-17Z" fill="#11b78a"/><path d="m10.5 6.8 16.8 9.5m-16.6 2.2v16.9m18.2-16.8v17" stroke="#fff" stroke-opacity=".65" stroke-width="1.5"/></svg>';
 const point=(p,q,t)=>p.map((v,i)=>v+(q[i]-v)*t);
 function rounded(pts,t) {
   const format=p=>p.map(n=>n.toFixed(2)).join(' ');

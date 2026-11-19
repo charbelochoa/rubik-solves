@@ -13,11 +13,10 @@ function render() {
   const list=cases.filter(c=>c.stage===stage), query=clean($('#search').value);
   $('#stage-name').textContent=stages[stage].name;
   $('#stage-label').textContent=stage;
-  $('#stage-description').textContent=stages[stage].text;
   for(const tab of document.querySelectorAll('[data-stage]')) tab.setAttribute('aria-pressed',tab.dataset.stage===stage);
   $('#groups').innerHTML=[all,...families(list)].map(g=>`<button data-group="${g}" aria-pressed="${g===group}"><span>${g}</span><small>${g===all?list.length:list.filter(c=>c.group===g).length}</small></button>`).join('');
   const filtered=list.filter(c=>(group===all||group===c.group)&&clean([c.code,title(c),c.group,c.stage,c.alg].join(' ')).includes(query));
-  $('#results').innerHTML=filtered.length?sections(filtered):'<div class="empty"><h3>No hay coincidencias</h3><p>Busca otro nombre o código de esta etapa.</p><button class="btn outline" id="clear-search">Ver todos los casos</button></div>';
+  $('#results').innerHTML=filtered.length?sections(filtered):'<div class="empty"><h3>No hay coincidencias</h3><button class="btn outline" id="clear-search">Ver todos los casos</button></div>';
 }
 document.addEventListener('click',e=>{
   const tab=e.target.closest('[data-stage]'), family=e.target.closest('[data-group]');
